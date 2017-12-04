@@ -1,6 +1,9 @@
+// Slide Reveal 
+
+//Alabama
 $(document).ready(function(){
-    $("#state").click(function(){
-        $("#answer").slideToggle("slow");
+    $("#alabama").click(function(){
+        $("#answer").slideToggle("slow, color: red");
     });
 });
 
