@@ -11,8 +11,8 @@
     text-align: center;
 }
 
-.answer {
-    padding: 25px 0px 100px 0px;
+#montgomery, #juneau, #lr, #sacramento, #denver {
+    padding: 25px 0px 50px 0px;
     display: none;
     font-family: sans-serif;
     font-size: 20px;
@@ -60,7 +60,7 @@ h2 {
 }
 
 h3{
-  color: #000;
+  color: red;
   margin: auto;
   align-content: center;
   padding: 10px 0;

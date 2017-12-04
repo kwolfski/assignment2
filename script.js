@@ -40,8 +40,6 @@ $(document).ready(function(){
 
 
 
-
-
 // Greeting
 $(document).ready(function()
 {
