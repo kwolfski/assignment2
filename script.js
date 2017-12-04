@@ -8,10 +8,35 @@ $(document).ready(function(){
 
 
 $(document).ready(function(){
+    $("#arkansas").click(function(){
+        $("#lr").slideToggle("slow");
+    });
+});
+
+
+$(document).ready(function(){
+    $("#colorado").click(function(){
+        $("#denver").slideToggle("slow");
+    });
+});
+
+
+
+// Toggle
+
+$(document).ready(function(){
     $("#alaska").click(function(){
         $("#juneau").toggle("slow");
     });
 });
+
+
+$(document).ready(function(){
+    $("#cali").click(function(){
+        $("#sacramento").toggle("slow");
+    });
+});
+
 
 
 
