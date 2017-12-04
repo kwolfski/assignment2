@@ -6,12 +6,12 @@
   box-sizing:inherit;
    }
 
-#answer, #state {
+.answer, .state {
     padding: 50px;
     text-align: center;
 }
 
-#answer {
+.answer {
     padding: 25px 0px 100px 0px;
     display: none;
     font-family: sans-serif;
@@ -49,6 +49,7 @@ h1 {
   font-weight: bold;
   font-size: 250%;
   line-height: 1.2em;
+  
 }
 
 h2 {
